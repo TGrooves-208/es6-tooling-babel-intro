@@ -1,4 +1,4 @@
-# es6-tooling-babel-intro
+# es6-tooling-no-babel-intro
 - Create a new directory (If doing this for the first time)
 - npm init --yes
 - This creates a package.json file for us
